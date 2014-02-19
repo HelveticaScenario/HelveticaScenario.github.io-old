@@ -1,0 +1,19 @@
+{
+  "name": "Daniel Lewis",
+  "version": "0.0.0",
+  "homepage": "http://thecontrarian.github.io/",
+  "authors": [
+    "Daniel Lewis <thecontrarian42@gmail.com>"
+  ],
+  "description": "The personal website of Daniel Lewis",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
